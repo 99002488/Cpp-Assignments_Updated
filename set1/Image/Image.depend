@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1600678729 source:c:\users\test\desktop\assignment_s1_s2\set1\image\main.cpp
+	<iostream>
+	"image.h"
+
+1600339570 c:\users\test\desktop\assignment_s1_s2\set1\image\image.h
+	<string>
+
+1600678802 source:c:\users\test\desktop\assignment_s1_s2\set1\image\image_test.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"image.h"
+
+1600911494 source:c:\users\training\desktop\cpp__assignments-master\cpp__assignments-master\set1\image\image_test.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"image.h"
+
+1600909612 c:\users\training\desktop\cpp__assignments-master\cpp__assignments-master\set1\image\image.h
+	<string>
+

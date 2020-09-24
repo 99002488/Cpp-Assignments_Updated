@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1600681975 source:c:\users\test\desktop\assignment_s1_s2\set1\ipaddress\main.cpp
+	<iostream>
+	<string.h>
+	"ipaddress.h"
+
+1600681945 c:\users\test\desktop\assignment_s1_s2\set1\ipaddress\ipaddress.h
+	<iostream>
+	<string.h>
+
+1600681455 source:c:\users\test\desktop\assignment_s1_s2\set1\ipaddress\ipaddress_test.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"ipaddress.h"
+
+1600911747 source:c:\users\training\desktop\cpp__assignments-master\cpp__assignments-master\set1\ipaddress\main.cpp
+	<iostream>
+	<string.h>
+	"ipaddress.h"
+
+1600911747 c:\users\training\desktop\cpp__assignments-master\cpp__assignments-master\set1\ipaddress\ipaddress.h
+	<iostream>
+	<string.h>
+

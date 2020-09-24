@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1600662064 source:c:\users\test\desktop\assignment_s1_s2\set1\account\main.cpp
+	<iostream>
+	"account.h"
+
+1600661482 c:\users\test\desktop\assignment_s1_s2\set1\account\account.h
+	<string>
+
+1600662446 source:c:\users\test\desktop\assignment_s1_s2\set1\account\account_test.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"account.h"
+
+1600909613 source:c:\users\training\desktop\cpp__assignments-master\cpp__assignments-master\set1\account\account_test.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"account.h"
+
+1600909613 c:\users\training\desktop\cpp__assignments-master\cpp__assignments-master\set1\account\account.h
+	<string>
+
+1600909613 source:c:\users\training\desktop\cpp__assignments-master\cpp__assignments-master\set1\account\main.cpp
+	<iostream>
+	"account.h"
+

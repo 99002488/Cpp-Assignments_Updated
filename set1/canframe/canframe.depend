@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1600422425 source:c:\users\test\desktop\assignment_s1_s2\set1\canframe\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+	"account.h"
+	"box.h"
+	"color.h"
+	"customer.h"
+	"image.h"
+	"ipaddress.h"
+	"point.h"
+
+1600412086 c:\users\test\desktop\assignment_s1_s2\set1\canframe\account.h
+	<string>
+
+1600412217 c:\users\test\desktop\assignment_s1_s2\set1\canframe\box.h
+
+1600412347 c:\users\test\desktop\assignment_s1_s2\set1\canframe\color.h
+
+1600412502 c:\users\test\desktop\assignment_s1_s2\set1\canframe\customer.h
+	<iostream>
+	<string>
+
+1600412590 c:\users\test\desktop\assignment_s1_s2\set1\canframe\image.h
+	<string>
+
+1600422482 c:\users\test\desktop\assignment_s1_s2\set1\canframe\ipaddress.h
+	<iostream>
+	<string.h>
+
+1600412938 c:\users\test\desktop\assignment_s1_s2\set1\canframe\point.h
+	<iostream>
+

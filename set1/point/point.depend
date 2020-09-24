@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1600680164 source:c:\users\test\desktop\assignment_s1_s2\set1\point\main.cpp
+	<math.h>
+	"point.h"
+
+1600680006 c:\users\test\desktop\assignment_s1_s2\set1\point\point.h
+	<iostream>
+
+1600680302 source:c:\users\test\desktop\assignment_s1_s2\set1\point\point_test.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"point.h"
+

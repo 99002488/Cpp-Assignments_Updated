@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1600667360 source:c:\users\test\desktop\assignment_s1_s2\set1\color\main.cpp
+	<iostream>
+	"color.h"
+
+1600666010 c:\users\test\desktop\assignment_s1_s2\set1\color\color.h
+
+1600667329 source:c:\users\test\desktop\assignment_s1_s2\set1\color\color_test.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"color.h"
+
+1600909614 source:c:\users\training\desktop\cpp__assignments-master\cpp__assignments-master\set1\color\color_test.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"color.h"
+
+1600909614 c:\users\training\desktop\cpp__assignments-master\cpp__assignments-master\set1\color\color.h
+
