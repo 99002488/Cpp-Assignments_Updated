@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1600508053 source:c:\users\test\desktop\assignment_s1_s2\set2\mytime\main.cpp
+	<iostream>
+	<mytime.h>
+
+1600507035 c:\users\test\desktop\assignment_s1_s2\set2\mytime\mytime.h
+	<iostream>
+
+1600899123 source:c:\users\test\desktop\cpp_assignments\set2\mytime\main.cpp
+	<iostream>
+	<mytime.h>
+
+1600508422 c:\users\test\desktop\cpp_assignments\set2\mytime\mytime.h
+	<iostream>
+
+1600898918 source:c:\users\test\desktop\cpp_assignments\set2\mytime\mytime_test.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"mytime.h"
+
