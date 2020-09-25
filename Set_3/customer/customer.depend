@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1600620001 source:c:\users\shraw\desktop\set3-20200920t123059z-001\set3\customer\main.cpp
+	<iostream>
+	"customer.h"
+	"postpaid.h"
+	"prepaid.h"
+
+1600619314 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\customer\customer.h
+	<string>
+	<cstdint>
+
+1600619337 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\customer\postpaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600619368 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\customer\prepaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600916490 source:c:\users\test\desktop\cpp_assignments\set3\customer\main.cpp
+	<iostream>
+	"customer.h"
+	"prepaid.h"
+	"postpaid.h"
+
+1600932531 c:\users\test\desktop\cpp_assignments\set3\customer\customer.h
+	<string>
+	<cstdint>
+
+1600932531 c:\users\test\desktop\cpp_assignments\set3\customer\postpaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600932531 c:\users\test\desktop\cpp_assignments\set3\customer\prepaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600932262 source:c:\users\test\desktop\cpp_assignments\set3\customer\customer_test.cpp
+	"customer.h"
+	"postpaid.h"
+	"prepaid.h"
+	<gtest/gtest.h>
+
+1600933423 source:c:\users\training\downloads\set3-20200924t131057z-001\set3\customer\main.cpp
+	<iostream>
+	<string>
+	"customer.h"
+	"postpaid.h"
+	"prepaid.h"
+
+1600933424 c:\users\training\downloads\set3-20200924t131057z-001\set3\customer\customer.h
+	<string>
+	<cstdint>
+
+1600933423 c:\users\training\downloads\set3-20200924t131057z-001\set3\customer\postpaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600933423 c:\users\training\downloads\set3-20200924t131057z-001\set3\customer\prepaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600933740 source:c:\users\training\downloads\set3-20200924t131057z-001\set3\customer\customer_test.cpp
+	"customer.h"
+	"postpaid.h"
+	"prepaid.h"
+	<gtest/gtest.h>
+

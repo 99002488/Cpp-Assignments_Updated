@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1600929733 source:c:\users\test\desktop\cpp_assignments\set3\shapes\main.cpp
+	<iostream>
+	"polygon.h"
+	"shape.h"
+	"rectangle.h"
+	"triangle.h"
+	"circle.h"
+	<math.h>
+
+1600761107 c:\users\test\desktop\cpp_assignments\set3\shapes\polygon.h
+	"shape.h"
+
+1600761107 c:\users\test\desktop\cpp_assignments\set3\shapes\shape.h
+
+1600761107 c:\users\test\desktop\cpp_assignments\set3\shapes\rectangle.h
+	"polygon.h"
+
+1600761107 c:\users\test\desktop\cpp_assignments\set3\shapes\triangle.h
+	"polygon.h"
+
+1600761107 c:\users\test\desktop\cpp_assignments\set3\shapes\circle.h
+	"shape.h"
+
+1600929720 source:c:\users\test\desktop\cpp_assignments\set3\shapes\shape_test.cpp
+	<iostream>
+	"polygon.h"
+	"shape.h"
+	"rectangle.h"
+	"triangle.h"
+	"circle.h"
+	<math.h>
+	<gtest/gtest.h>
+
+1600933421 source:c:\users\training\downloads\set3-20200924t131057z-001\set3\shapes\shape_test.cpp
+	<iostream>
+	"polygon.h"
+	"shape.h"
+	"rectangle.h"
+	"triangle.h"
+	"circle.h"
+	<math.h>
+	<gtest/gtest.h>
+
+1600933421 c:\users\training\downloads\set3-20200924t131057z-001\set3\shapes\polygon.h
+	"shape.h"
+
+1600933421 c:\users\training\downloads\set3-20200924t131057z-001\set3\shapes\shape.h
+
+1600933421 c:\users\training\downloads\set3-20200924t131057z-001\set3\shapes\rectangle.h
+	"polygon.h"
+
+1600933421 c:\users\training\downloads\set3-20200924t131057z-001\set3\shapes\triangle.h
+	"polygon.h"
+
+1600933421 c:\users\training\downloads\set3-20200924t131057z-001\set3\shapes\circle.h
+	"shape.h"
+

@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1600609091 source:c:\users\shraw\desktop\set3-20200920t123059z-001\set3\employee\main.cpp
+	<iostream>
+	"employee.h"
+	"engineer.h"
+	"manager.h"
+	"trainee.h"
+
+1600467900 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\employee\employee.h
+	<iostream>
+	<string>
+
+1600465930 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\employee\engineer.h
+	<iostream>
+	<string>
+	"employee.h"
+
+1600608954 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\employee\manager.h
+	<iostream>
+	"string.h"
+	"employee.h"
+
+1600609338 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\employee\trainee.h
+	<iostream>
+	<string>
+	"employee.h"
+
+1600931874 source:c:\users\test\desktop\cpp_assignments\set3\employee\main.cpp
+	<iostream>
+	"employee.h"
+	"engineer.h"
+	"manager.h"
+	"trainee.h"
+
+1600931255 c:\users\test\desktop\cpp_assignments\set3\employee\employee.h
+	<string>
+
+1600931054 c:\users\test\desktop\cpp_assignments\set3\employee\engineer.h
+	"employee.h"
+
+1600930308 c:\users\test\desktop\cpp_assignments\set3\employee\manager.h
+	"employee.h"
+
+1600930294 c:\users\test\desktop\cpp_assignments\set3\employee\trainee.h
+	"employee.h"
+
+1600931344 source:c:\users\test\desktop\cpp_assignments\set3\employee\employee_test.cpp
+	"employee.h"
+	"engineer.h"
+	"manager.h"
+	"trainee.h"
+	<gtest/gtest.h>
+
+1600934060 source:c:\users\training\downloads\set3-20200924t131057z-001\set3\employee\employee_test.cpp
+	"employee.h"
+	"engineer.h"
+	"manager.h"
+	"trainee.h"
+	<gtest/gtest.h>
+
+1600933849 c:\users\training\downloads\set3-20200924t131057z-001\set3\employee\employee.h
+	<string>
+
+1600933423 c:\users\training\downloads\set3-20200924t131057z-001\set3\employee\engineer.h
+	"employee.h"
+
+1600933423 c:\users\training\downloads\set3-20200924t131057z-001\set3\employee\manager.h
+	"employee.h"
+
+1600933423 c:\users\training\downloads\set3-20200924t131057z-001\set3\employee\trainee.h
+	"employee.h"
+
+1600933849 source:c:\users\training\downloads\set3-20200924t131057z-001\set3\employee\main.cpp
+	<iostream>
+	"employee.h"
+	"engineer.h"
+	"manager.h"
+	"trainee.h"
+
