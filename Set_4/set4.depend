@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1600620670 source:c:\users\shraw\desktop\set 4\set4\main.cpp
+	<iostream>
+	<cmath>
+	"gcomplex.h"
+	"garray.h"
+	"gstack.h"
+	"gpoint.h"
+
+1600621322 c:\users\shraw\desktop\set 4\set4\gcomplex.h
+
+1600620385 c:\users\shraw\desktop\set 4\set4\garray.h
+	<iostream>
+
+1600621339 c:\users\shraw\desktop\set 4\set4\gstack.h
+	<iostream>
+	<vector>
+
+1600620417 c:\users\shraw\desktop\set 4\set4\gpoint.h
+
+1600933748 source:c:\users\test\desktop\cpp_assignments\set4\main.cpp
+	<iostream>
+	<cmath>
+	"gcomplex.h"
+	"garray.h"
+	"gstack.h"
+	"gpoint.h"
+
+1600761107 c:\users\test\desktop\cpp_assignments\set4\gcomplex.h
+
+1600761107 c:\users\test\desktop\cpp_assignments\set4\garray.h
+	<iostream>
+
+1600761107 c:\users\test\desktop\cpp_assignments\set4\gstack.h
+	<iostream>
+	<vector>
+
+1600761107 c:\users\test\desktop\cpp_assignments\set4\gpoint.h
+
+1600933731 source:c:\users\test\desktop\cpp_assignments\set4\test.cpp
+	"main.cpp"
+	<iostream>
+	<gtest/gtest.h>
+
+1600933748 c:\users\test\desktop\cpp_assignments\set4\main.cpp
+	<iostream>
+	<cmath>
+	"gcomplex.h"
+	"garray.h"
+	"gstack.h"
+	"gpoint.h"
+
+1600960800 source:c:\users\tejas\downloads\set4\set4\main.cpp
+	<iostream>
+	<cmath>
+	"gcomplex.h"
+	"garray.h"
+	"gstack.h"
+	"gpoint.h"
+
+1600960799 c:\users\tejas\downloads\set4\set4\gcomplex.h
+
+1600960799 c:\users\tejas\downloads\set4\set4\garray.h
+	<iostream>
+
+1600960800 c:\users\tejas\downloads\set4\set4\gstack.h
+	<iostream>
+	<vector>
+
+1600960800 c:\users\tejas\downloads\set4\set4\gpoint.h
+
